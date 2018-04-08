@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://120.210.131.36:58080/uploads/file/wqgj_versioncontrol/2016-09-28/DetectionManagement.ipa--5ace4a147d5845319c022b044285cb0b.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.chinatelecom.anhui.payment</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>一店一码</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
